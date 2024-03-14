@@ -1,3 +1,9 @@
+ANOTHER IMAGE FRED IS THIS: 
+devopshint/nodejsapp-1.0
+ANOTHER IMAGE IS THIS FRED: nanajanashia/argocd-app:1.2
+ANOTHER IMAGE IS THIS FRED:
+nanajanashia/argocd-app:1.0
+
 #### Commands
 
 ```bash
