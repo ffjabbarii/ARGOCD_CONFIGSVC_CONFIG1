@@ -1,3 +1,33 @@
+******************** ARGICD **************************
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*********************
 ANOTHER IMAGE FRED IS THIS: 
  nanajanashia/argocd-app:1.2
 ANOTHER IMAGE IS THIS FRED:
