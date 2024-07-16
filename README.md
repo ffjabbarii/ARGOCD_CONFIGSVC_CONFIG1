@@ -56,9 +56,9 @@
 *
 *********************
 ANOTHER IMAGE FRED IS THIS: 
- nanajanashia/argocd-app:1.2
+ configsvc/argocd-app:1.2
 ANOTHER IMAGE IS THIS FRED:
-nanajanashia/argocd-app:1.0
+configsvc/argocd-app:1.0
 
 #### Commands
 
