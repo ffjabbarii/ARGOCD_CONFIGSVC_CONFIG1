@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/ffjabbari/ARGOCD_CONFIGSVC_CONFIG.git
+    repoURL: https://github.com/ffjabbarii/ARGOCD_CONFIGSVC_CONFIG1.git
     targetRevision: HEAD
     path: dev
   destination: 
