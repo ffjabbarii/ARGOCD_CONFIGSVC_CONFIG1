@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/ffjabbarii/ARGOCD_CONFIGSVC_CONFIG1.git
     targetRevision: HEAD
-    path: development
+    path: sandbox
   destination: 
     server: https://kubernetes.default.svc
     namespace: configapp
